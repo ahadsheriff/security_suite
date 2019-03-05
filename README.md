@@ -17,7 +17,7 @@ PortScan
 * A port scanning tool
 
 SSHScan
-    - A brute force SSH login scanning tool
+* A brute force SSH login scanning tool
     
 # Pentest Suite
 This directory contains a collection of scripts which are intended for offensive security purposes.
