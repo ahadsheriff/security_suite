@@ -1,7 +1,7 @@
-# security_suite
+# Security Suite
 A collection of audit and penetration testing scripts that can be used for cyber security purposes. 
 
-# audit_suite
+# Audit Suite
 This directory contains a collection of scripts which are intended for on-site asset discovery. All the scripts contained in this package can be run on a Windows 10 machine with powershell, bash, ubuntu, and python.
 
 DNSenum
@@ -19,7 +19,7 @@ PortScan
 SSHScan
     - A brute force SSH login scanning tool
     
-# pentest_suite
+# Pentest Suite
 This directory contains a collection of scripts which are intended for offensive security purposes.
 
 Email Crawler
